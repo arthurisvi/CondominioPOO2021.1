@@ -10,9 +10,9 @@ Projeto final desenvolvido na disciplina de Projeto de Orientação a Objetos do
 ## Screen Almoxarifado 
 ![image](https://user-images.githubusercontent.com/83462514/152698117-368e7a10-21cd-4885-b27f-cefc391b75ec.png)
 
-## Screen Almoxarifado 
+## Screen Contabil
 ![image](https://user-images.githubusercontent.com/83462514/152698201-f6fdb777-af06-43c9-bd9c-ec483a16a75f.png)
 
-## Screen example
+## CRUD Screen example
 ![image](https://user-images.githubusercontent.com/83462514/152697964-facb6907-8db7-4a08-a48e-042b8253a0c1.png)
 
